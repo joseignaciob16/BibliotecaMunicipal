@@ -70,3 +70,4 @@ y para generar los siguientes informes:
 <img align="center" src="https://user-images.githubusercontent.com/81385175/180321181-8f126fca-cd16-42df-a0fb-4b2b942dac28.png">
 <img align="center" src="https://user-images.githubusercontent.com/81385175/180321299-89f940b6-e0bc-49d4-bc13-b0b483419b86.png">
 
+
